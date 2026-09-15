@@ -1,0 +1,15 @@
+What are the modes of refund available after cancellation?
+
+The different modes of refund available are:
+
+Payment mode: Cash on Delivery
+
+1. UPI (Amount less than Rs 1000) - Refund will be processed to the UPI account for which UPI ID has to be shared
+2. Gift Card (Amount less than Rs 10000) - Refund will be processed to Gift Card account
+3. Bank account (IMPS/NEFT) - Refund will be processed to bank account for which bank details have to be shared
+
+Payment mode: Prepaid
+
+1. Back to source - Refund will be processed to the payment mode(Debit/Credit card, NEFT, UPI) used to pay for the order
+2. Gift Card (Amount less than Rs 10000) - Refund will be processed to Gift Card account.
+
